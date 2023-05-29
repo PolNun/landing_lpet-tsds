@@ -344,7 +344,7 @@ body {
     }
 }
 
-/* dark mode */
+/* dark mode 
 @media (prefers-color-scheme: dark) {
     body {
         background-color: #222;
@@ -394,4 +394,4 @@ body {
         border-bottom: 3px solid #888;
         color: #000;
     }
-}
+}*/
